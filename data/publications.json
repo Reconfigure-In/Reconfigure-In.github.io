@@ -1,0 +1,41 @@
+[
+    {
+        "id": "01",
+        "title": "An Improved Underwater Object Detection based on YOLOv8 Segmentation",
+        "journal": "Research Gate",
+        "year": "2022",
+        "authors": [
+            "Ayush Thakur",
+            "Ashwani Kumar Dubey",
+            "Rashmi Vashisth"
+        ],
+        "description": "This paper presents a novel approach for underwater object detection using the YOLOv8 segmentation model. The proposed method enhances detection accuracy and efficiency in challenging underwater environments.",
+        "link": "https://www.researchgate.net/profile/Ayush-Thakur-9/publication/379226556_An_Improved_Underwater_Object_Detection_based_on_YOLOv8_Segmentation/links/65ffc742a8baf573a1d58327/An-Improved-Underwater-Object-Detection-based-on-YOLOv8-Segmentation.pdf"
+    },
+    {
+        "id": "02",
+        "title": "Forecasting the Future: A Survey on AI-Powered Predictive Analysis in Tourism",
+        "journal": "Research Gate",
+        "year": "2023",
+        "authors": [
+            "Ayush Thakur",
+            "Alka Mashewari",
+            "Laxmi Ahuja"
+        ],
+        "description": "This survey explores the application of AI-powered predictive analysis in the tourism industry. It reviews various machine learning techniques and their effectiveness in forecasting tourism trends, customer behavior, and market dynamics.",
+        "link": "https://www.researchgate.net/profile/Ayush-Thakur-9/publication/379227462_Forecasting_the_Future_A_Survey_on_AI-Powered_Predictive_Analysis_in_Tourism/links/6600147fa8baf573a1d5883e/Forecasting-the-Future-A-Survey-on-AI-Powered-Predictive-Analysis-in-Tourism.pdf"
+    },
+    {
+        "id": "03",
+        "title": "Privacy and Security Considerations in Healthcare: Navigating the Challenges of IoT and Ubiquitous Computing",
+        "journal": "Research Gate",
+        "year": "2023",
+        "authors": [
+            "Laxmi Ahuja",
+            "Rajbala Simon",
+            "Ayush Thakur"
+        ],
+        "description": "This chapter discusses the privacy and security challenges associated with the integration of IoT and ubiquitous computing in healthcare. It provides insights into potential risks and proposes strategies to mitigate these challenges while ensuring patient safety and data integrity.",
+        "link": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003330523-12/privacy-security-considerations-healthcare-navigating-challenges-iot-ubiquitous-computing-laxmi-ahuja-rajbala-simon-ayush-thakur"
+    }
+]

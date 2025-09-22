@@ -1,0 +1,41 @@
+[
+    {
+        "id": "air-hindi-270m",
+        "title": "AIR-Hindi-270M",
+        "meta": "AI Research • Hindi Language Model",
+        "description": "State-of-the-art language model specifically designed for understanding and generating Hindi text. Trained on diverse datasets to ensure cultural relevance and contextual understanding.",
+        "tags": [
+            "Large Language Model",
+            "Hindi",
+            "Transformer",
+            "NLP"
+        ],
+        "link": "mailto:ayush.th2002@gmail.com"
+    },
+    {
+        "id": "moa-1b",
+        "title": "Mixture-of-Agents-1B",
+        "meta": "AI Research • Multi-Agent Systems",
+        "description": "A large-scale SLM based mixture of experts model that uses multiple specialized agents to enhance performance across various tasks. Designed for adaptability and efficiency in complex environments.",
+        "tags": [
+            "Mixture of Experts",
+            "Multi-Agent",
+            "Scalable",
+            "AI"
+        ],
+        "link": "mailto:ayush.th2002@gmail.com"
+    },
+    {
+        "id": "baseline-encryptor",
+        "title": "Baseline-v0.1",
+        "meta": "Cryptography • Text Encryption Model",
+        "description": "A nano speed model for text encryption tasks build on core C, focusing on secure and efficient encryption techniques. Ideal for applications requiring robust data protection and privacy.",
+        "tags": [
+            "Baseline",
+            "Encryption",
+            "Core C",
+            "Security"
+        ],
+        "link": "mailto:ayush.th2002@gmail.com"
+    }
+]

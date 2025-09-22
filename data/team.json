@@ -1,0 +1,26 @@
+{
+    "teamMembers": [
+        {
+            "id": "ayush-thakur",
+            "name": "Ayush Thakur",
+            "role": "Founder",
+            "bio": "Leading expert in neural architectures and deep learning theory with over 18 years of research experience. Specializes in computational neuroscience, transformer architectures, and large-scale AI systems development."
+        }
+    ],
+    "stats": {
+        "publications": 32,
+        "models": 3,
+        "researchers": 8,
+        "collaborators": 25,
+        "established": 2023
+    },
+    "labInfo": {
+        "title": "RECONFIGURE: OPEN RESEARCH GROUP",
+        "tagline": "Advanced Research in Artificial Intelligence & Machine Learning",
+        "description": [
+            "The \"RECONFIGURE\" is a premier research institution dedicated to advancing the frontiers of artificial intelligence and computational cognition. Our multidisciplinary approach combines theoretical foundations with practical applications, driving innovation across machine learning, neural architectures, and intelligent systems.",
+            "Our research portfolio encompasses transformer architectures, reinforcement learning frameworks, computer vision systems, and ethical AI development. We maintain collaborative partnerships with leading academic institutions and industry pioneers, ensuring our research translates into meaningful real-world impact.",
+            "Since our establishment in 2023, we have published over 32 peer-reviewed papers in top-tier venues, developed multiple open-source AI models, and trained dozens of researchers who now lead AI initiatives across academia and industry."
+        ]
+    }
+}
